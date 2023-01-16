@@ -7,11 +7,6 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class SpringConfig {
-//	private final DataSource dataSource;
-//
-//	public SpringConfig(DataSource dataSource) {
-//		this.dataSource = dataSource;
-//	}
 
 	private final MemberRepository memberRepository;
 
